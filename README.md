@@ -16,4 +16,3 @@
 - App statistics for individual user and for across all users.
 - Images for podcast and user.
 - User allowed to leave comment for author on the about page.
-### My contact details are in my about page
