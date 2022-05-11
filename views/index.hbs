@@ -1,0 +1,57 @@
+{{> welcomemenu }}
+
+
+
+
+<section id = "will" class="ui center aligned middle aligned segment">
+  <p> Sign up or Log in... </p>
+ 
+
+   <div class="ui divider"></div>
+   <h2 class="ui header">
+  Statistics for all users: 
+</h2>
+  <div class="ui statistics">
+    <div class="ui small green statistic" > 
+        <div class="value">
+            <i class="podcast icon"></i>
+        </div>
+        <div class="label">
+           {{totalPodcasts}} Podcasts 
+        </div>
+    </div>
+    <div class="ui small purple statistic">
+        <div class="value"> <i class="headphones icon"></i>
+            
+        </div>
+        <div class="label">
+             {{totalEpisodes}} Episodes
+        </div>
+    </div>
+      <div class="ui small yellow statistic"> 
+        <div class="value">
+            <i class="random icon"></i>
+        </div>
+        <div class="label">
+            Average Episodes: {{avgEpisodes}}
+        </div>
+    </div>
+</div>
+          
+         
+<div class="ui two statistics"> 
+          <div class="ui box">
+            
+           <div id = "box" class ="label">
+        Podcast with most episodes: {{largest}} 
+            </div>
+            
+            
+            <div id = "box2" class ="label">
+        Podcast with least episodes: {{smallest}} 
+            </div>
+          </div>
+          </div> 
+          
+        
+</section>

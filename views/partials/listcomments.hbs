@@ -1,0 +1,14 @@
+<div id = "john" class="ui centered cards">
+  {{#each comments}}
+    <div class="ui card">
+      <div class="content">
+        <a class="header">Added by: {{commentName}}</a>
+        <div class="metadata">
+          <span class="date">Created: {{formatDate date}}</span>
+          <span>Comment: {{comment}}</span>
+        </div>
+      </div>
+    </div>
+  {{/each}}
+</div>
+
