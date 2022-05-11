@@ -1,0 +1,14 @@
+{
+  "developers": [
+    {
+      "name": "Will",
+      "fullname": "Will Jolly",
+      "image": "https://cdn.glitch.global/670c6736-c60d-4bad-a26d-baebaf88b7ab/20220227_144155.jpg?v=1650020423154",
+      "joined": 2022,
+      "job": "Web Developer",
+      "city": "Waterford",
+      "mates": 10
+    }
+  ],
+  "podcastCollection": []
+}

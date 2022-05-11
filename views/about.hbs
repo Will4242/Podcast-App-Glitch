@@ -1,0 +1,18 @@
+{{> menu id="about"}}
+
+<section id = "will" class="ui center aligned middle aligned segment">
+  <h2 class="ui header">
+    The podcast app team:
+  </h2>
+
+  <div class="ui centered cards">
+
+  {{#each developers}}
+      
+      {{> card}}
+  {{/each}}
+
+  </div>
+  {{> listcomments}}
+  {{> addcomment}}
+</section>

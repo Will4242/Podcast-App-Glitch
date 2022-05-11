@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "firstName": "John",
+      "lastName": "Joe",
+      "email": "joeggg@gmail.com",
+      "password": "Secret123",
+      "id": "dc607d81-9695-415a-89ad-3c54f5d3fb54",
+      "picture": "http://res.cloudinary.com/dntlfguhm/image/upload/v1648804382/sc4x9jhd9fmrveeasi9x.jpg"
+    },
+    {
+      "firstName": "Will",
+      "lastName": "Jolly",
+      "email": "wj@gmail.com",
+      "password": "Secret1",
+      "id": "350b390d-c251-4a80-b28d-a4d2bef38ec3",
+      "picture": "http://res.cloudinary.com/dntlfguhm/image/upload/v1650124985/vocgrnp12c4uyqa6w44x.jpg"
+    },
+    {
+      "firstName": "Joe",
+      "lastName": "Bloggs",
+      "email": "jbloggs@setu.ie",
+      "password": "Trustno1",
+      "id": "2b96c0d8-e3e9-4a52-b8e4-e331a9209361",
+      "picture": "http://res.cloudinary.com/dntlfguhm/image/upload/v1652093394/vmhqwohogg7proahmvqk.jpg"
+    }
+  ]
+}

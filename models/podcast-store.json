@@ -1,0 +1,52 @@
+{
+  "podcastCollection": [
+    {
+      "id": "10ebf3e7-3b5d-43f1-b414-b2028aff9fb4",
+      "userid": "dc607d81-9695-415a-89ad-3c54f5d3fb54",
+      "title": "Joe Rogan",
+      "picture": "http://res.cloudinary.com/dntlfguhm/image/upload/v1650124545/cdwsbltqavpojqzj6ykg.jpg",
+      "date": "2022-04-16T15:55:44.941Z",
+      "episodes": [
+        {
+          "id": "287f03c1-5f2f-4090-bbf3-f7eb4076511e",
+          "title": "Episode 4",
+          "artist": "Joe Rogan",
+          "genre": "Comedy",
+          "duration": "3h 20m"
+        }
+      ]
+    },
+    {
+      "id": "6eac751c-9392-4997-adaf-1330176271f3",
+      "userid": "350b390d-c251-4a80-b28d-a4d2bef38ec3",
+      "title": "Tom Segura",
+      "picture": "http://res.cloudinary.com/dntlfguhm/image/upload/v1650125026/ux3uqdwjsvy8ivuidr5o.jpg",
+      "date": "2022-04-16T16:03:46.197Z",
+      "episodes": [
+        {
+          "id": "57212e87-77e2-44b2-b6d4-48fade6d363d",
+          "title": "Episode 4",
+          "artist": "Tom Segura ",
+          "genre": "Comedy",
+          "duration": "3h 20m"
+        }
+      ]
+    },
+    {
+      "id": "da96e097-2b5b-4f32-b54f-d09b66b8c8c9",
+      "userid": "2b96c0d8-e3e9-4a52-b8e4-e331a9209361",
+      "title": "tr",
+      "picture": "http://res.cloudinary.com/dntlfguhm/image/upload/v1652262458/g3dupd3sj1n10gylf9al.jpg",
+      "date": "2022-05-11T09:47:38.028Z",
+      "episodes": [
+        {
+          "id": "65666910-1f3a-4224-b042-4e31f707ac2c",
+          "title": "F ",
+          "artist": "F ",
+          "genre": "Science",
+          "duration": "5"
+        }
+      ]
+    }
+  ]
+}
